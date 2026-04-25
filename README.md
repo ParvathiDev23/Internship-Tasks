@@ -1,1 +1,1 @@
-1dt task of creating threat intelligence report done successfully and submitted.
+1st task of creating threat intelligence report done successfully and submitted.
